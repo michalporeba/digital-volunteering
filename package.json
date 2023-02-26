@@ -1,0 +1,17 @@
+{
+  "name": "digital-volunteering",
+  "version": "1.0.0",
+  "description": "A place to capture the ideas behind digital volunteering.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "govuk-eleventy-plugin": "^4.0.0"
+  }
+}
